@@ -1,4 +1,7 @@
 # Scratch
+
+![](scratchkepernyofot.png)
+
             "Varázslatos hableány" a Scratch projektem címe. 
             
             
